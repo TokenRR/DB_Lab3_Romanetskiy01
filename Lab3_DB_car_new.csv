@@ -1,0 +1,11 @@
+carid,teamid,name,brand,number
+1,1,MCL34                                             ,McLaren                                           ,34
+2,1,MCL35                                             ,McLaren                                           ,35
+3,2,Mercedes AMG F1 W09 EQ Power+                     ,Mercedes AMG                                      ,9
+4,2,Mercedes AMG F1 W10 EQ Power+                     ,Mercedes AMG                                      ,10
+5,3,Ferrari SF71H                                     ,McLaren                                           ,71
+6,3,Ferrari SF79K                                     ,McLaren                                           ,89
+7,4,Haas 265G                                         ,Mercedes AMG                                      ,45
+8,4,Haas 477B                                         ,Mercedes AMG                                      ,14
+9,5,Aston Martin Turbo 9                              ,Aston Martin                                      ,56
+10,5,Aston Martin Turbo GT                             ,Aston Martin                                      ,65
